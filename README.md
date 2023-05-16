@@ -8,8 +8,11 @@ This project is developed and tested in google colab environment. Please build u
 
 ## Table of Contents
 
-- [Usage](#usage)
-- [Contact](#contact)
+- [Data preparation]
+- [Clone other repos]
+- [Objective evaluation]
+- [Result analysis]
+- [Contact]
 
 ## Data preparation
 
