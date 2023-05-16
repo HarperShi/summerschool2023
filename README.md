@@ -46,9 +46,9 @@ There are three machine learning based models used in this project. [MOSNet](htt
 Please clone them from github in advance. Please run the following code in your notebook.
 
 ```
-$git clone https://github.com/lochenchou/MOSNet.git
-$git clone https://github.com/google/visqol.git
-$git clone https://github.com/gabrielmittag/NISQA.git
+!git clone https://github.com/lochenchou/MOSNet.git
+!git clone https://github.com/google/visqol.git
+!git clone https://github.com/gabrielmittag/NISQA.git
 ```
 
 Please notice, it takes a very long time to build up visqol in colab (~2 hours). You can follow the instructions in the notebook to build it or just skip those steps.
